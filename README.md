@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hey there, I'm Ruthu Parinika VN</h1>
-<h3 align="center">🚀 Building Project, purposeful AI for IT & Social Media challenges</h3>
+<h3 align="center">🚀 Building Project,AI based solutions for IT & Social Media challenges</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building%20cool%20stuff-dedede?style=for-the-badge&logoColor=black">
