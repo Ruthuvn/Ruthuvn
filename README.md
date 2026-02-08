@@ -5,20 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Ruthu+Parinika+V+N;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Apps" alt="Typing SVG" />
 </p>
 
----
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20cool%20stuff-dedede?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Fullstack%20Dev-cfd8dc?style=for-the-badge&logoColor=black">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
----
 
 ## 💫 About Me
 - 💡 Passionate about **cutting-edge AI, open-source, and solving real-world problems**  
 - 👥 Working with an amazing team of friends  
 - 🎯 Goal: Build impactful products with open-source spirit  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
+
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -33,9 +29,85 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,java,html,bash,react,nodejs,express,django,tailwind,vite,threejs,bootstrap,aws,firebase,mongodb,mysql,postgres,docker,kubernetes,git,github,gitlab,postman,figma,typescript,next.js" />
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center" width="150">Languages</th>
+        <th align="center" width="150">Backend</th>
+        <th align="center" width="200">AI / Data</th>
+        <th align="center" width="200">DevOps</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=python,js,ts,cs" width="120" alt="Languages" />
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,n8n" width="120" alt="Backend" />
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis" width="150" alt="AI/Data" />
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,githubactions" width="150" alt="DevOps" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="left" width="250">Project</th>
+        <th align="left" width="350">Description</th>
+        <th align="left" width="200">Tech Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>🛍️ <a href="https://raycreatess.works">RayCreates</a></strong></td>
+        <td>Live e-commerce platform with secure payments.</td>
+        <td><code>Python</code> <code>Razorpay</code> <code>PostgreSQL</code></td>
+      </tr>
+      <tr>
+        <td><strong>🧠 <a href="https://github.com/hemangsengar/codebase-rag">Codebase RAG</a></strong></td>
+        <td>Natural language code search engine.</td>
+        <td><code>LangChain</code> <code>ChromaDB</code> <code>OpenAI</code></td>
+      </tr>
+      <tr>
+        <td><strong>🎤 <a href="https://gen-ai-xi-eight.vercel.app/">AI Voice Interviewer</a></strong></td>
+        <td>Automated voice assessment bot.</td>
+        <td><code>Whisper</code> <code>FastAPI</code> <code>LLMs</code></td>
+      </tr>
+      <tr>
+        <td><strong>📈 <a href="https://github.com/hemangsengar/StockPulse">StockPulse</a></strong></td>
+        <td>Real-time stock analysis & sentiment tracking.</td>
+        <td><code>TensorFlow</code> <code>Python</code></td>
+      </tr>
+      <tr>
+        <td><strong>🏠 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7422517791569764353/">Home Lab</a></strong></td>
+        <td>Self-hosted Infrastructure on Lenovo T430.</td>
+        <td><code>Ubuntu</code> <code>Docker</code> <code>K8s</code></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br/>
+ />
 </p>
