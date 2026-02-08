@@ -1,6 +1,11 @@
-<h1 align="center"> 👋 Hey there, I'm Ruthu Parinika VN</h1>
-<h3 align="center">🚀 Building Project,AI based solutions for IT & Social Media challenges</h3>
+<!-- Professional & Futuristic GitHub Profile README -->
 
+<!-- 🌌 Animated Typing Header (Heroku service for reliability) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Ruthu+Parinika+V+N;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Apps" alt="Typing SVG" />
+</p>
+
+---
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building%20cool%20stuff-dedede?style=for-the-badge&logoColor=black">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Fullstack%20Dev-cfd8dc?style=for-the-badge&logoColor=black">
