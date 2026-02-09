@@ -47,10 +47,10 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=python,js,ts,cs" width="120" alt="Languages" />
+          <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs" width="120" alt="Languages" />
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,n8n" width="120" alt="Backend" />
+          <img src="https://skillicons.dev/icons?i=fastapi,django,flask" width="120" alt="Backend" />
         </td>
         <td align="center">
           <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis" width="150" alt="AI/Data" />
