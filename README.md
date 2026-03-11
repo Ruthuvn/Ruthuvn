@@ -3,7 +3,6 @@
 <img alt="Insert happy gif here" src="https://i.giphy.com/media/ule4vhcY1xEKQ/200w.webp" align="right" margin="0 20px 0 0"/>
 
 🧪 Experimenting with code like a mad scientist xD
-
 💡 Passionate about **cutting-edge AI, open-source, and solving real-world problems**  
 👥 Working with an amazing team of friends  
 🎯 Goal: Build impactful products with open-source spirit 
@@ -12,7 +11,7 @@
 
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/ruuuttthhhh">
     <img src="https://img.shields.io/badge/Instagram-f5e0dc?style=for-the-badge&logo=instagram&logoColor=black">
   </a>
