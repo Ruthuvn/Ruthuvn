@@ -1,5 +1,4 @@
-# Hello world,  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Ruthu+Parinika+V+N;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Apps" alt="Typing SVG" />
-</p>
+# Hello world, Ruthu here :)
 
 
 <img alt="Insert happy gif here" src="https://i.giphy.com/media/ule4vhcY1xEKQ/200w.webp" align="right" margin="0 20px 0 0"/>
