@@ -1,4 +1,6 @@
-# Hello world,font=Fira+Code&size=28&duration=2500&pause=800&color=F78C6C&vCenter=true&width=200&lines=Ruthu+here+:)">
+# Hello world,  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Ruthu+Parinika+V+N;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Apps" alt="Typing SVG" />
+</p>
+
 
 <img alt="Insert happy gif here" src="https://i.giphy.com/media/ule4vhcY1xEKQ/200w.webp" align="right" margin="0 20px 0 0"/>
 
