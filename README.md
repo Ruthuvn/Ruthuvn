@@ -1,11 +1,11 @@
-# Hello world, Ruthu here :)
+# Hello world, <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F78C6C&vCenter=true&width=200&lines=Ruthu+here+:)">
 
 <img alt="Insert happy gif here" src="https://i.giphy.com/media/ule4vhcY1xEKQ/200w.webp" align="right" margin="0 20px 0 0"/>
 
-🧪 Experimenting with code like a mad scientist xD
+🧪 Experimenting with code like a mad scientist xD  
 💡 Passionate about **cutting-edge AI, open-source, and solving real-world problems**  
 👥 Working with an amazing team of friends  
-🎯 Goal: Build impactful products with open-source spirit 
+🎯 Goal: Build impactful products with open-source spirit
 
 
 
