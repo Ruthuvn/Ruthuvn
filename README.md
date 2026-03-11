@@ -1,20 +1,11 @@
-<!-- Professional & Futuristic GitHub Profile README -->
+# Hello world, Ruthu here :)
 
-<!-- 🌌 Animated Typing Header (Heroku service for reliability) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Ruthu+Parinika+V+N;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Apps" alt="Typing SVG" />
-</p>
+<img alt="Insert happy gif here" src="https://i.giphy.com/media/ule4vhcY1xEKQ/200w.webp" align="right" margin="0 20px 0 0"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
-
-
-## 💫 About Me
-- 💡 Passionate about **cutting-edge AI, open-source, and solving real-world problems**  
-- 👥 Working with an amazing team of friends  
-- 🎯 Goal: Build impactful products with open-source spirit  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
-
+🧪 Experimenting with code like a mad scientist xD
+💡 Passionate about **cutting-edge AI, open-source, and solving real-world problems**  
+👥 Working with an amazing team of friends  
+🎯 Goal: Build impactful products with open-source spirit 
 
 ## 🌐 Connect With Me
 <p align="center">
